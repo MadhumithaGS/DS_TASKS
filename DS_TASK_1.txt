@@ -1,0 +1,21 @@
+1. 100-word Write-up on Machine Learning
+	Machine learning is a branch of artificial intelligence that allows computers to learn from data and make decisions 
+without being directly programmed for every task. Instead of following fixed rules, machines recognize patterns, make 
+predictions, and get better with experience—just like humans do. We see machine learning everywhere today: in photo recognition,
+ language translation, online recommendations, fraud alerts, and even self-driving cars. By processing huge amounts of information, 
+it helps solve problems quickly and accurately. As the technology grows, it continues to shape fields like healthcare, finance,
+ manufacturing, and communication, making our world smarter and more automated.
+
+2. Applications of Machine Learning
+
+	Machine learning is widely used in many fields. Major applications include:
+
+	Image and speech recognition
+
+	Natural Language Processing (chatbots, translations)
+
+	Healthcare diagnosis and prediction
+
+	Fraud detection in banking
+
+	Stock market trend prediction
